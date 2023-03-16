@@ -1,19 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Matlab</title>
-    <url>/2021/02/16/Matlab/</url>
-    <content><![CDATA[<h3 id="Matlab-常用代码"><a href="#Matlab-常用代码" class="headerlink" title="Matlab 常用代码"></a>Matlab 常用代码</h3><p><strong>打印图片</strong></p>
-<figure class="highlight matlab"><table><tr><td class="code"><pre><span class="line">ifsave = <span class="number">1</span>;</span><br><span class="line"><span class="keyword">if</span> ifsave == <span class="number">1</span></span><br><span class="line">    fig_name = [<span class="string">&#x27;figure.eps&#x27;</span>];</span><br><span class="line">    folder_name = [<span class="string">&#x27;results\&#x27;</span>];</span><br><span class="line">    print([folder_name, fig_name], <span class="string">&#x27;-depsc&#x27;</span>, <span class="string">&#x27;-r600&#x27;</span>)</span><br><span class="line"></span><br><span class="line">    fig_name = [<span class="string">&#x27;figure.png&#x27;</span>];</span><br><span class="line">    folder_name = [<span class="string">&#x27;results\&#x27;</span>];</span><br><span class="line">    print([folder_name, fig_name], <span class="string">&#x27;-dpng&#x27;</span>, <span class="string">&#x27;-r600&#x27;</span>)</span><br><span class="line"><span class="keyword">end</span></span><br></pre></td></tr></table></figure>
-]]></content>
-      <categories>
-        <category>Matlab</category>
-      </categories>
-      <tags>
-        <tag>Matlab</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Hexo学习笔记</title>
     <url>/2021/02/05/hexo/</url>
     <content><![CDATA[<h3 id="常用代码："><a href="#常用代码：" class="headerlink" title="常用代码："></a>常用代码：</h3><p><strong>常用的 Hexo 命令：</strong></p>
@@ -33,18 +20,16 @@
       </tags>
   </entry>
   <entry>
-    <title>ICASSP2022</title>
-    <url>/2023/03/15/paper/</url>
-    <content><![CDATA[<h1 id="pdf测试-超链接"><a href="#pdf测试-超链接" class="headerlink" title="pdf测试 超链接"></a>pdf测试 超链接</h1><p><a href="Study_of_the_null_directions_on_the_performance_of_differential_beamformers.pdf">PDF下载</a></p>
-<h1 id="海报图片555"><a href="#海报图片555" class="headerlink" title="海报图片555"></a>海报图片555</h1><img src="/2023/03/15/paper/poster_XWang_ICASSP2022.PNG" class="" title="[img]">
-
-<h1 id="视频-防止预下载"><a href="#视频-防止预下载" class="headerlink" title="视频 防止预下载"></a>视频 防止预下载</h1><p><video src="video_ICASSP2022_XWang.mp4" position= "relative" width="100%" height="100%" controls="controls" preload="none"><video></p>
+    <title>Matlab</title>
+    <url>/2021/02/16/Matlab/</url>
+    <content><![CDATA[<h3 id="Matlab-常用代码"><a href="#Matlab-常用代码" class="headerlink" title="Matlab 常用代码"></a>Matlab 常用代码</h3><p><strong>打印图片</strong></p>
+<figure class="highlight matlab"><table><tr><td class="code"><pre><span class="line">ifsave = <span class="number">1</span>;</span><br><span class="line"><span class="keyword">if</span> ifsave == <span class="number">1</span></span><br><span class="line">    fig_name = [<span class="string">&#x27;figure.eps&#x27;</span>];</span><br><span class="line">    folder_name = [<span class="string">&#x27;results\&#x27;</span>];</span><br><span class="line">    print([folder_name, fig_name], <span class="string">&#x27;-depsc&#x27;</span>, <span class="string">&#x27;-r600&#x27;</span>)</span><br><span class="line"></span><br><span class="line">    fig_name = [<span class="string">&#x27;figure.png&#x27;</span>];</span><br><span class="line">    folder_name = [<span class="string">&#x27;results\&#x27;</span>];</span><br><span class="line">    print([folder_name, fig_name], <span class="string">&#x27;-dpng&#x27;</span>, <span class="string">&#x27;-r600&#x27;</span>)</span><br><span class="line"><span class="keyword">end</span></span><br></pre></td></tr></table></figure>
 ]]></content>
       <categories>
-        <category>Publication</category>
+        <category>Matlab</category>
       </categories>
       <tags>
-        <tag>Publication</tag>
+        <tag>Matlab</tag>
       </tags>
   </entry>
   <entry>
@@ -61,6 +46,21 @@
       </categories>
       <tags>
         <tag>Markdown</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>ICASSP2022</title>
+    <url>/2023/03/15/paper/</url>
+    <content><![CDATA[<h1 id="pdf测试-超链接"><a href="#pdf测试-超链接" class="headerlink" title="pdf测试 超链接"></a>pdf测试 超链接</h1><p><a href="Study_of_the_null_directions_on_the_performance_of_differential_beamformers.pdf">PDF下载</a></p>
+<h1 id="海报图片555"><a href="#海报图片555" class="headerlink" title="海报图片555"></a>海报图片555</h1><img src="/2023/03/15/paper/poster_XWang_ICASSP2022.PNG" class="" title="[img]">
+
+<h1 id="视频-防止预下载"><a href="#视频-防止预下载" class="headerlink" title="视频 防止预下载"></a>视频 防止预下载</h1><p><video src="video_ICASSP2022_XWang.mp4" position= "relative" width="100%" height="100%" controls="controls" preload="none"><video></p>
+]]></content>
+      <categories>
+        <category>Publication</category>
+      </categories>
+      <tags>
+        <tag>Publication</tag>
       </tags>
   </entry>
 </search>
