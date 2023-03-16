@@ -1,19 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Matlab</title>
-    <url>/2021/02/16/Matlab/</url>
-    <content><![CDATA[<h3 id="Matlab-常用代码"><a href="#Matlab-常用代码" class="headerlink" title="Matlab 常用代码"></a>Matlab 常用代码</h3><p><strong>打印图片</strong></p>
-<figure class="highlight matlab"><table><tr><td class="code"><pre><span class="line">ifsave = <span class="number">1</span>;</span><br><span class="line"><span class="keyword">if</span> ifsave == <span class="number">1</span></span><br><span class="line">    fig_name = [<span class="string">&#x27;figure.eps&#x27;</span>];</span><br><span class="line">    folder_name = [<span class="string">&#x27;results\&#x27;</span>];</span><br><span class="line">    print([folder_name, fig_name], <span class="string">&#x27;-depsc&#x27;</span>, <span class="string">&#x27;-r600&#x27;</span>)</span><br><span class="line"></span><br><span class="line">    fig_name = [<span class="string">&#x27;figure.png&#x27;</span>];</span><br><span class="line">    folder_name = [<span class="string">&#x27;results\&#x27;</span>];</span><br><span class="line">    print([folder_name, fig_name], <span class="string">&#x27;-dpng&#x27;</span>, <span class="string">&#x27;-r600&#x27;</span>)</span><br><span class="line"><span class="keyword">end</span></span><br></pre></td></tr></table></figure>
-]]></content>
-      <categories>
-        <category>Matlab</category>
-      </categories>
-      <tags>
-        <tag>Matlab</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>ICASSP2022</title>
     <url>/2023/03/15/ICASSP2022/</url>
     <content><![CDATA[<h1 id="pdf测试-超链接"><a href="#pdf测试-超链接" class="headerlink" title="pdf测试 超链接"></a>pdf测试 超链接</h1><p><a href="Study_of_the_null_directions_on_the_performance_of_differential_beamformers.pdf">PDF下载</a></p>
@@ -26,6 +13,19 @@
       </categories>
       <tags>
         <tag>Publication</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Matlab</title>
+    <url>/2021/02/16/Matlab/</url>
+    <content><![CDATA[<h3 id="Matlab-常用代码"><a href="#Matlab-常用代码" class="headerlink" title="Matlab 常用代码"></a>Matlab 常用代码</h3><p><strong>打印图片</strong></p>
+<figure class="highlight matlab"><table><tr><td class="code"><pre><span class="line">ifsave = <span class="number">1</span>;</span><br><span class="line"><span class="keyword">if</span> ifsave == <span class="number">1</span></span><br><span class="line">    fig_name = [<span class="string">&#x27;figure.eps&#x27;</span>];</span><br><span class="line">    folder_name = [<span class="string">&#x27;results\&#x27;</span>];</span><br><span class="line">    print([folder_name, fig_name], <span class="string">&#x27;-depsc&#x27;</span>, <span class="string">&#x27;-r600&#x27;</span>)</span><br><span class="line"></span><br><span class="line">    fig_name = [<span class="string">&#x27;figure.png&#x27;</span>];</span><br><span class="line">    folder_name = [<span class="string">&#x27;results\&#x27;</span>];</span><br><span class="line">    print([folder_name, fig_name], <span class="string">&#x27;-dpng&#x27;</span>, <span class="string">&#x27;-r600&#x27;</span>)</span><br><span class="line"><span class="keyword">end</span></span><br></pre></td></tr></table></figure>
+]]></content>
+      <categories>
+        <category>Matlab</category>
+      </categories>
+      <tags>
+        <tag>Matlab</tag>
       </tags>
   </entry>
   <entry>
