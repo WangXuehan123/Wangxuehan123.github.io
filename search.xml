@@ -8,7 +8,7 @@
 <h1 id="Abstract"><a href="#Abstract" class="headerlink" title="Abstract"></a>Abstract</h1><p>Differential beamformers with concentric circular microphone arrays (CCMAs) are desirable for use in various applications since they can form frequency-invariant spatial responses, have better beam steering flexibility than linear arrays, and suffer less with beampattern irregularity and white noise amplification than circular microphone arrays (CMAs). The methods developed previously for differential beamforming with CCMAs are based on the series expansion. Such methods need to know the analytic form of the target beampattern, which may not be accessible in practice. Furthermore, expansion error may lead to erroneous solution, which can cause noise amplification instead of reduction. In this paper, we extend our recently developed beamforming method for CMAs to the design of differential beamformers with CCMAs, which takes advantage of the symmetric null constraints from the beampattern. Simulations are performed to justify the properties of the proposed approach.</p>
 <h1 id="Poster"><a href="#Poster" class="headerlink" title="Poster"></a>Poster</h1>
 
-<h1 id="PDF-download"><a href="#PDF-download" class="headerlink" title="PDF download"></a>PDF download</h1><p><a href="Robust_steerable_differential_beamformers_with_null_constraints_for_concentric_circular_microphone_arrays.pdf">Robust steerable differential beamformers with null constraints<br>for concentric circular microphone arrays</a></p>
+<h1 id="PDF-download"><a href="#PDF-download" class="headerlink" title="PDF download"></a>PDF download</h1><p><a href="Robust_steerable_differential_beamformers_with_null_constraints_for_concentric_circular_microphone_arrays.pdf">Robust steerable differential beamformers with null constraints for concentric circular microphone arrays</a></p>
 <h1 id="Presentation-Video"><a href="#Presentation-Video" class="headerlink" title="Presentation Video"></a>Presentation Video</h1><p><video src="video_XWang_ICASSP2021.mp4" position= "relative" width="100%" height="100%" controls="controls" preload="none"><video></p>
 ]]></content>
       <categories>
@@ -50,6 +50,23 @@
       </tags>
   </entry>
   <entry>
+    <title>鼠标右键新建.md文件</title>
+    <url>/2021/02/14/typora/</url>
+    <content><![CDATA[<p>安装Typora情况下，Windows右键新建菜单中增加新建md文件</p>
+<h2 id="方法"><a href="#方法" class="headerlink" title="方法"></a>方法</h2><p>新建一个<code>txt</code>文本文件，写入：</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">Windows Registry Editor Version 5.00</span><br><span class="line"></span><br><span class="line">[HKEY_CLASSES_ROOT.md]</span><br><span class="line">@=&quot;Typora.md&quot;</span><br><span class="line">&quot;Content Type&quot;=&quot;text/markdown&quot;</span><br><span class="line">&quot;PerceivedType&quot;=&quot;text&quot;</span><br><span class="line"></span><br><span class="line">[HKEY_CLASSES_ROOT.md\ShellNew]</span><br><span class="line">&quot;NullFile&quot;=&quot;&quot;</span><br></pre></td></tr></table></figure>
+
+<p>然后修改<code>.txt</code>后缀为<code>.reg</code> 的注册表文件。</p>
+<p>然后双击运行。</p>
+]]></content>
+      <categories>
+        <category>Markdown</category>
+      </categories>
+      <tags>
+        <tag>Markdown</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Hexo学习笔记</title>
     <url>/2021/02/05/hexo/</url>
     <content><![CDATA[<h3 id="常用代码："><a href="#常用代码：" class="headerlink" title="常用代码："></a>常用代码：</h3><p><strong>常用的 Hexo 命令：</strong></p>
@@ -66,23 +83,6 @@
       </categories>
       <tags>
         <tag>Hexo</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>鼠标右键新建.md文件</title>
-    <url>/2021/02/14/typora/</url>
-    <content><![CDATA[<p>安装Typora情况下，Windows右键新建菜单中增加新建md文件</p>
-<h2 id="方法"><a href="#方法" class="headerlink" title="方法"></a>方法</h2><p>新建一个<code>txt</code>文本文件，写入：</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">Windows Registry Editor Version 5.00</span><br><span class="line"></span><br><span class="line">[HKEY_CLASSES_ROOT.md]</span><br><span class="line">@=&quot;Typora.md&quot;</span><br><span class="line">&quot;Content Type&quot;=&quot;text/markdown&quot;</span><br><span class="line">&quot;PerceivedType&quot;=&quot;text&quot;</span><br><span class="line"></span><br><span class="line">[HKEY_CLASSES_ROOT.md\ShellNew]</span><br><span class="line">&quot;NullFile&quot;=&quot;&quot;</span><br></pre></td></tr></table></figure>
-
-<p>然后修改<code>.txt</code>后缀为<code>.reg</code> 的注册表文件。</p>
-<p>然后双击运行。</p>
-]]></content>
-      <categories>
-        <category>Markdown</category>
-      </categories>
-      <tags>
-        <tag>Markdown</tag>
       </tags>
   </entry>
 </search>
