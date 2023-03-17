@@ -86,6 +86,22 @@
       </tags>
   </entry>
   <entry>
+    <title>Beamforming with Cube Microphone Arrays via Kronecker Product Decompositions</title>
+    <url>/2023/03/18/TASLP2021/</url>
+    <content><![CDATA[<p>Author</p>
+<p><strong>Xuehan Wang</strong>, Jacob Benesty, Jingdong Chen, Gongping Huang, and Israel Cohen</p>
+<h1 id="Published-in"><a href="#Published-in" class="headerlink" title="Published in"></a>Published in</h1><p>IEEE&#x2F;ACM Transactions on Audio, Speech, and Language Processing, vol. 29, 2021</p>
+<h1 id="Abstract"><a href="#Abstract" class="headerlink" title="Abstract"></a>Abstract</h1><p>Microphone arrays combined with beamforming have been widely used to solve many important acoustic problems in a wide range of applications. Much effort has been devoted in the literature to microphone array beamforming, among which the Kronecker product beamforming method developed recently has demonstrated some interesting properties. Generally, this method decomposes the global beamforming filter into a Kronecker product of a number of sub-beamforming filters, each of which corresponds to a virtual subarray and can be designed individually. This decomposition not only reduces significantly the number of beamforming coefficients, but also can be explored to improve the robustness and flexibility of beamforming. This paper extends Kronecker product beamforming from two-dimensional arrays into three-dimensional cube arrays. We consider two decompositions, i.e., fully and partially separable ones. The former decomposes the entire array into three linear subarrays while the latter decomposes the entire array into a linear subarray and a planar one. Then, for each<br>case, we derive the Kronecker product maximum white noise gain beamformer, the Kronecker product approximate maximum directivity factor (DF) beamformer, the Kronecker product null-steering beamformer, and the Kronecker product iterative<br>maximum DF beamformer. Simulation results demonstrate the properties and advantages of the proposed beamformers.</p>
+<h1 id="PDF-download"><a href="#PDF-download" class="headerlink" title="PDF download"></a>PDF download</h1><p><a href="Beamforming_with_Cube_Microphone_Arrays_via_Kronecker_Product_Decompositions.pdf">Beamforming with Cube Microphone Arrays via Kronecker Product Decompositions</a></p>
+]]></content>
+      <categories>
+        <category>Publication</category>
+      </categories>
+      <tags>
+        <tag>Publication</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Hexo学习笔记</title>
     <url>/2021/02/05/hexo/</url>
     <content><![CDATA[<h3 id="常用代码："><a href="#常用代码：" class="headerlink" title="常用代码："></a>常用代码：</h3><p><strong>常用的 Hexo 命令：</strong></p>
