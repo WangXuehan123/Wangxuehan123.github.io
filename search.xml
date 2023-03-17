@@ -1,19 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Matlab</title>
-    <url>/2021/02/16/Matlab/</url>
-    <content><![CDATA[<h3 id="Matlab-常用代码"><a href="#Matlab-常用代码" class="headerlink" title="Matlab 常用代码"></a>Matlab 常用代码</h3><p><strong>打印图片</strong></p>
-<figure class="highlight matlab"><table><tr><td class="code"><pre><span class="line">ifsave = <span class="number">1</span>;</span><br><span class="line"><span class="keyword">if</span> ifsave == <span class="number">1</span></span><br><span class="line">    fig_name = [<span class="string">&#x27;figure.eps&#x27;</span>];</span><br><span class="line">    folder_name = [<span class="string">&#x27;results\&#x27;</span>];</span><br><span class="line">    print([folder_name, fig_name], <span class="string">&#x27;-depsc&#x27;</span>, <span class="string">&#x27;-r600&#x27;</span>)</span><br><span class="line"></span><br><span class="line">    fig_name = [<span class="string">&#x27;figure.png&#x27;</span>];</span><br><span class="line">    folder_name = [<span class="string">&#x27;results\&#x27;</span>];</span><br><span class="line">    print([folder_name, fig_name], <span class="string">&#x27;-dpng&#x27;</span>, <span class="string">&#x27;-r600&#x27;</span>)</span><br><span class="line"><span class="keyword">end</span></span><br></pre></td></tr></table></figure>
-]]></content>
-      <categories>
-        <category>Matlab</category>
-      </categories>
-      <tags>
-        <tag>Matlab</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Robust steerable differential beamformers with null constraints for concentric circular microphone arrays</title>
     <url>/2023/03/17/ICASSP2021/</url>
     <content><![CDATA[<h1 id="Author"><a href="#Author" class="headerlink" title="Author"></a>Author</h1><p><strong>Xuehan Wang</strong>, Gongping Huang, Israel Cohen, Jacob Benesty, and Jingdong Chen</p>
@@ -50,22 +37,16 @@
       </tags>
   </entry>
   <entry>
-    <title>Hexo学习笔记</title>
-    <url>/2021/02/05/hexo/</url>
-    <content><![CDATA[<h3 id="常用代码："><a href="#常用代码：" class="headerlink" title="常用代码："></a>常用代码：</h3><p><strong>常用的 Hexo 命令：</strong></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">npm install hexo -g #安装Hexo</span><br><span class="line">npm update hexo -g #升级</span><br><span class="line">hexo init #初始化博客</span><br></pre></td></tr></table></figure>
-
-<p><strong>命令简写：</strong></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">hexo n &quot;我的博客&quot; == hexo new &quot;我的博客&quot; #新建文章</span><br><span class="line">hexo g == hexo generate #生成</span><br><span class="line">hexo s == hexo server #启动服务预览</span><br><span class="line">hexo d == hexo deploy #部署</span><br><span class="line"></span><br><span class="line">hexo server #Hexo会监视文件变动并自动更新，无须重启服务器</span><br><span class="line">hexo server -s #静态模式</span><br><span class="line">hexo server -p 5000 #更改端口</span><br><span class="line">hexo server -i 192.168.1.1 #自定义 IP</span><br><span class="line">hexo clean #清除缓存，若是网页正常情况下可以忽略这条命令</span><br></pre></td></tr></table></figure>
-
-<p><strong>新建部署三连</strong></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">hexo n &quot;new_blog&quot;</span><br><span class="line">hexo g</span><br><span class="line">hexo d</span><br></pre></td></tr></table></figure>
+    <title>Matlab</title>
+    <url>/2021/02/16/Matlab/</url>
+    <content><![CDATA[<h3 id="Matlab-常用代码"><a href="#Matlab-常用代码" class="headerlink" title="Matlab 常用代码"></a>Matlab 常用代码</h3><p><strong>打印图片</strong></p>
+<figure class="highlight matlab"><table><tr><td class="code"><pre><span class="line">ifsave = <span class="number">1</span>;</span><br><span class="line"><span class="keyword">if</span> ifsave == <span class="number">1</span></span><br><span class="line">    fig_name = [<span class="string">&#x27;figure.eps&#x27;</span>];</span><br><span class="line">    folder_name = [<span class="string">&#x27;results\&#x27;</span>];</span><br><span class="line">    print([folder_name, fig_name], <span class="string">&#x27;-depsc&#x27;</span>, <span class="string">&#x27;-r600&#x27;</span>)</span><br><span class="line"></span><br><span class="line">    fig_name = [<span class="string">&#x27;figure.png&#x27;</span>];</span><br><span class="line">    folder_name = [<span class="string">&#x27;results\&#x27;</span>];</span><br><span class="line">    print([folder_name, fig_name], <span class="string">&#x27;-dpng&#x27;</span>, <span class="string">&#x27;-r600&#x27;</span>)</span><br><span class="line"><span class="keyword">end</span></span><br></pre></td></tr></table></figure>
 ]]></content>
       <categories>
-        <category>Hexo</category>
+        <category>Matlab</category>
       </categories>
       <tags>
-        <tag>Hexo</tag>
+        <tag>Matlab</tag>
       </tags>
   </entry>
   <entry>
@@ -83,6 +64,25 @@
       </categories>
       <tags>
         <tag>Markdown</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Hexo学习笔记</title>
+    <url>/2021/02/05/hexo/</url>
+    <content><![CDATA[<h3 id="常用代码："><a href="#常用代码：" class="headerlink" title="常用代码："></a>常用代码：</h3><p><strong>常用的 Hexo 命令：</strong></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">npm install hexo -g #安装Hexo</span><br><span class="line">npm update hexo -g #升级</span><br><span class="line">hexo init #初始化博客</span><br></pre></td></tr></table></figure>
+
+<p><strong>命令简写：</strong></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">hexo n &quot;我的博客&quot; == hexo new &quot;我的博客&quot; #新建文章</span><br><span class="line">hexo g == hexo generate #生成</span><br><span class="line">hexo s == hexo server #启动服务预览</span><br><span class="line">hexo d == hexo deploy #部署</span><br><span class="line"></span><br><span class="line">hexo server #Hexo会监视文件变动并自动更新，无须重启服务器</span><br><span class="line">hexo server -s #静态模式</span><br><span class="line">hexo server -p 5000 #更改端口</span><br><span class="line">hexo server -i 192.168.1.1 #自定义 IP</span><br><span class="line">hexo clean #清除缓存，若是网页正常情况下可以忽略这条命令</span><br></pre></td></tr></table></figure>
+
+<p><strong>新建部署三连</strong></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">hexo n &quot;new_blog&quot;</span><br><span class="line">hexo g</span><br><span class="line">hexo d</span><br></pre></td></tr></table></figure>
+]]></content>
+      <categories>
+        <category>Hexo</category>
+      </categories>
+      <tags>
+        <tag>Hexo</tag>
       </tags>
   </entry>
 </search>
