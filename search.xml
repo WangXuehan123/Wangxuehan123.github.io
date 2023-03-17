@@ -18,6 +18,25 @@
       </tags>
   </entry>
   <entry>
+    <title>Design of Kronecker Product Beamformers with Cuboid Microphone Arrays</title>
+    <url>/2023/03/17/ICA2019/</url>
+    <content><![CDATA[<h1 id="Author"><a href="#Author" class="headerlink" title="Author"></a>Author</h1><p><strong>Xuehan Wang</strong>,Jacob Benesty, Gongping Huang, Jingdong Chen and Israel Cohen, </p>
+<h1 id="Published-in"><a href="#Published-in" class="headerlink" title="Published in"></a>Published in</h1><p>2019 International Congress on Acoustics (ICA)</p>
+<h1 id="Abstract"><a href="#Abstract" class="headerlink" title="Abstract"></a>Abstract</h1><p>Microphone array beamforming has been widely used in a wide range of acoustic applications. To make it effective in suppressing noise, yet being able to preserve the fidelity and quality of broadband speech signals of interest, the beamformer needs to be designed with high spatial gain, consistent responses at different frequencies, and high robustness against array imperfections. A great deal of efforts have been devoted in the literature to achieving this goal, among which the Kronecker product beamforming method, developed recently for linear and rectangular microphone arrays, has demonstrated some interesting properties. In this work, we extend this approach to three-dimensional arrays. Focusing on cuboid shape of microphone arrays, we first decompose the global beamforming filter into a Kronecker product of two sub-beamforming filters. Algorithms are then developed to design each sub-beamforming filter so that the global beamformer has a high directivity factor and can be steered flexibly in the three-dimensional space.</p>
+<h1 id="Poster"><a href="#Poster" class="headerlink" title="Poster"></a>Poster</h1><img src="/2023/03/17/ICA2019/ICA_Poster_Wang.PNG" class="" title="[img]">
+
+
+
+<h1 id="PDF-download"><a href="#PDF-download" class="headerlink" title="PDF download"></a>PDF download</h1><p><a href="Design_of_Kronecker_Product_Beamformers_with_Cuboid_Microphone_Arrays.pdf">Design of Kronecker Product Beamformers with Cuboid Microphone Arrays</a></p>
+]]></content>
+      <categories>
+        <category>Publication</category>
+      </categories>
+      <tags>
+        <tag>Publication</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Robust steerable differential beamformers with null constraints for concentric circular microphone arrays</title>
     <url>/2023/03/17/ICASSP2021/</url>
     <content><![CDATA[<h1 id="Author"><a href="#Author" class="headerlink" title="Author"></a>Author</h1><p><strong>Xuehan Wang</strong>, Gongping Huang, Israel Cohen, Jacob Benesty, and Jingdong Chen</p>
