@@ -6,10 +6,28 @@
     <content><![CDATA[<h1 id="Author"><a href="#Author" class="headerlink" title="Author"></a>Author</h1><p><strong>Xuehan Wang</strong>, Gongping Huang, Israel Cohen, Jacob Benesty, and Jingdong Chen</p>
 <h1 id="Published-in"><a href="#Published-in" class="headerlink" title="Published in"></a>Published in</h1><p>2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)</p>
 <h1 id="Abstract"><a href="#Abstract" class="headerlink" title="Abstract"></a>Abstract</h1><p>Differential beamformers with concentric circular microphone arrays (CCMAs) are desirable for use in various applications since they can form frequency-invariant spatial responses, have better beam steering flexibility than linear arrays, and suffer less with beampattern irregularity and white noise amplification than circular microphone arrays (CMAs). The methods developed previously for differential beamforming with CCMAs are based on the series expansion. Such methods need to know the analytic form of the target beampattern, which may not be accessible in practice. Furthermore, expansion error may lead to erroneous solution, which can cause noise amplification instead of reduction. In this paper, we extend our recently developed beamforming method for CMAs to the design of differential beamformers with CCMAs, which takes advantage of the symmetric null constraints from the beampattern. Simulations are performed to justify the properties of the proposed approach.</p>
-<h1 id="Poster"><a href="#Poster" class="headerlink" title="Poster"></a>Poster</h1><img src="/2023/03/17/ICASSP2021/poster_XWang_ICASSP2021.PNG" class="" title="[img]">
+<h1 id="Poster"><a href="#Poster" class="headerlink" title="Poster"></a>Poster</h1>
 
 <h1 id="PDF-download"><a href="#PDF-download" class="headerlink" title="PDF download"></a>PDF download</h1><p><a href="Robust_steerable_differential_beamformers_with_null_constraints_for_concentric_circular_microphone_arrays.pdf">Robust steerable differential beamformers with null constraints for concentric circular microphone arrays</a></p>
 <h1 id="Presentation-Video"><a href="#Presentation-Video" class="headerlink" title="Presentation Video"></a>Presentation Video</h1><p><video src="video_XWang_ICASSP2021.mp4" position= "relative" width="100%" height="100%" controls="controls" preload="none"><video></p>
+]]></content>
+      <categories>
+        <category>Publication</category>
+      </categories>
+      <tags>
+        <tag>Publication</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Study of the null directions on the performance of differential beamformers</title>
+    <url>/2023/03/15/ICASSP2022/</url>
+    <content><![CDATA[<h1 id="Author"><a href="#Author" class="headerlink" title="Author"></a>Author</h1><p><strong>Xuehan Wang</strong>, Israel Cohen,  Jacob Benesty, and Jingdong Chen</p>
+<h1 id="Published-in"><a href="#Published-in" class="headerlink" title="Published in"></a>Published in</h1><p>2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)</p>
+<h1 id="Abstract"><a href="#Abstract" class="headerlink" title="Abstract"></a>Abstract</h1><p>  Null directions are important parameters for differential beamformers, which play an important role on the beamforming performance. In this paper, we investigate the performance of differential beamformers as a function of the null directions. We first derive the directivity factor (DF) as an explicit function of null and show that the DF decreases to 0 if any null approaches to the desired look direction. We then validate the theoretical analysis through simulations using the beampattern, DF and signal-to-interference gain as the performance measures. The results show that: 1) the performance of a differential beamformer degrades significantly if there is any null close to the desired look direction; 2) with a fixed null direction, increasing the order of the differential beamformer can help improve performance.</p>
+<h1 id="Poster"><a href="#Poster" class="headerlink" title="Poster"></a>Poster</h1><img src="/2023/03/15/ICASSP2022/poster_XWang_ICASSP2022.PNG" class="" title="[img]">
+
+<h1 id="PDF-download"><a href="#PDF-download" class="headerlink" title="PDF download"></a>PDF download</h1><p><a href="Study_of_the_null_directions_on_the_performance_of_differential_beamformers.pdf">Study of the null directions on the performance of differential beamformers</a></p>
+<h1 id="Presentation-Video"><a href="#Presentation-Video" class="headerlink" title="Presentation Video"></a>Presentation Video</h1><p><video src="video_ICASSP2022_XWang.mp4" position= "relative" width="100%" height="100%" controls="controls" preload="none"><video></p>
 ]]></content>
       <categories>
         <category>Publication</category>
@@ -32,21 +50,20 @@
       </tags>
   </entry>
   <entry>
-    <title>Study of the null directions on the performance of differential beamformers</title>
-    <url>/2023/03/15/ICASSP2022/</url>
-    <content><![CDATA[<h1 id="Author"><a href="#Author" class="headerlink" title="Author"></a>Author</h1><p><strong>Xuehan Wang</strong>, Israel Cohen,  Jacob Benesty, and Jingdong Chen</p>
-<h1 id="Published-in"><a href="#Published-in" class="headerlink" title="Published in"></a>Published in</h1><p>2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)</p>
-<h1 id="Abstract"><a href="#Abstract" class="headerlink" title="Abstract"></a>Abstract</h1><p>  Null directions are important parameters for differential beamformers, which play an important role on the beamforming performance. In this paper, we investigate the performance of differential beamformers as a function of the null directions. We first derive the directivity factor (DF) as an explicit function of null and show that the DF decreases to 0 if any null approaches to the desired look direction. We then validate the theoretical analysis through simulations using the beampattern, DF and signal-to-interference gain as the performance measures. The results show that: 1) the performance of a differential beamformer degrades significantly if there is any null close to the desired look direction; 2) with a fixed null direction, increasing the order of the differential beamformer can help improve performance.</p>
-<h1 id="Poster"><a href="#Poster" class="headerlink" title="Poster"></a>Poster</h1><img src="/2023/03/15/ICASSP2022/poster_XWang_ICASSP2022.PNG" class="" title="[img]">
+    <title>鼠标右键新建.md文件</title>
+    <url>/2021/02/14/typora/</url>
+    <content><![CDATA[<p>安装Typora情况下，Windows右键新建菜单中增加新建md文件</p>
+<h2 id="方法"><a href="#方法" class="headerlink" title="方法"></a>方法</h2><p>新建一个<code>txt</code>文本文件，写入：</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">Windows Registry Editor Version 5.00</span><br><span class="line"></span><br><span class="line">[HKEY_CLASSES_ROOT.md]</span><br><span class="line">@=&quot;Typora.md&quot;</span><br><span class="line">&quot;Content Type&quot;=&quot;text/markdown&quot;</span><br><span class="line">&quot;PerceivedType&quot;=&quot;text&quot;</span><br><span class="line"></span><br><span class="line">[HKEY_CLASSES_ROOT.md\ShellNew]</span><br><span class="line">&quot;NullFile&quot;=&quot;&quot;</span><br></pre></td></tr></table></figure>
 
-<h1 id="PDF-download"><a href="#PDF-download" class="headerlink" title="PDF download"></a>PDF download</h1><p><a href="Study_of_the_null_directions_on_the_performance_of_differential_beamformers.pdf">Study of the null directions on the performance of differential beamformers</a></p>
-<h1 id="Presentation-Video"><a href="#Presentation-Video" class="headerlink" title="Presentation Video"></a>Presentation Video</h1><p><video src="video_ICASSP2022_XWang.mp4" position= "relative" width="100%" height="100%" controls="controls" preload="none"><video></p>
+<p>然后修改<code>.txt</code>后缀为<code>.reg</code> 的注册表文件。</p>
+<p>然后双击运行。</p>
 ]]></content>
       <categories>
-        <category>Publication</category>
+        <category>Markdown</category>
       </categories>
       <tags>
-        <tag>Publication</tag>
+        <tag>Markdown</tag>
       </tags>
   </entry>
   <entry>
@@ -66,23 +83,6 @@
       </categories>
       <tags>
         <tag>Hexo</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>鼠标右键新建.md文件</title>
-    <url>/2021/02/14/typora/</url>
-    <content><![CDATA[<p>安装Typora情况下，Windows右键新建菜单中增加新建md文件</p>
-<h2 id="方法"><a href="#方法" class="headerlink" title="方法"></a>方法</h2><p>新建一个<code>txt</code>文本文件，写入：</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">Windows Registry Editor Version 5.00</span><br><span class="line"></span><br><span class="line">[HKEY_CLASSES_ROOT.md]</span><br><span class="line">@=&quot;Typora.md&quot;</span><br><span class="line">&quot;Content Type&quot;=&quot;text/markdown&quot;</span><br><span class="line">&quot;PerceivedType&quot;=&quot;text&quot;</span><br><span class="line"></span><br><span class="line">[HKEY_CLASSES_ROOT.md\ShellNew]</span><br><span class="line">&quot;NullFile&quot;=&quot;&quot;</span><br></pre></td></tr></table></figure>
-
-<p>然后修改<code>.txt</code>后缀为<code>.reg</code> 的注册表文件。</p>
-<p>然后双击运行。</p>
-]]></content>
-      <categories>
-        <category>Markdown</category>
-      </categories>
-      <tags>
-        <tag>Markdown</tag>
       </tags>
   </entry>
 </search>
