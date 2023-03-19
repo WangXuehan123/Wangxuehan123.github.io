@@ -1,16 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Matlab</title>
-    <url>/2021/02/16/Matlab/</url>
-    <content><![CDATA[<h3 id="Matlab-常用代码"><a href="#Matlab-常用代码" class="headerlink" title="Matlab 常用代码"></a>Matlab 常用代码</h3><p><strong>打印图片</strong></p>
-<figure class="highlight matlab"><table><tr><td class="code"><pre><span class="line">ifsave = <span class="number">1</span>;</span><br><span class="line"><span class="keyword">if</span> ifsave == <span class="number">1</span></span><br><span class="line">    fig_name = [<span class="string">&#x27;figure.eps&#x27;</span>];</span><br><span class="line">    folder_name = [<span class="string">&#x27;results\&#x27;</span>];</span><br><span class="line">    print([folder_name, fig_name], <span class="string">&#x27;-depsc&#x27;</span>, <span class="string">&#x27;-r600&#x27;</span>)</span><br><span class="line"></span><br><span class="line">    fig_name = [<span class="string">&#x27;figure.png&#x27;</span>];</span><br><span class="line">    folder_name = [<span class="string">&#x27;results\&#x27;</span>];</span><br><span class="line">    print([folder_name, fig_name], <span class="string">&#x27;-dpng&#x27;</span>, <span class="string">&#x27;-r600&#x27;</span>)</span><br><span class="line"><span class="keyword">end</span></span><br></pre></td></tr></table></figure>
+    <title>Kronecker Product Adaptive Beamforming for Microphone Arrays</title>
+    <url>/2023/03/17/APSIPA2021/</url>
+    <content><![CDATA[<p>Author</p>
+<p><strong>Xuehan Wang</strong>, Gongping Huang, Israel Cohen, Jacob Benesty, and Jingdong Chen</p>
+<h1 id="Published-in"><a href="#Published-in" class="headerlink" title="Published in"></a>Published in</h1><p>2021 Asia-Pacific Signal and Information Processing Association Annual Summit and conference (APSIPA ASC)</p>
+<h1 id="Abstract"><a href="#Abstract" class="headerlink" title="Abstract"></a>Abstract</h1><p>Microphone array adaptive beamforming is needed in a wide range of audio and speech applications for acquiring the acoustic signal of interest while suppressing noise and interference. In the design and application of adaptive beamformers, particular attention has to be paid to the issues of robustness and computational efficiency. One way to deal with these issues is through the use of the recently developed Kronecker product beamforming framework. However, the existing Kronecker product beamformers were formulated based on special array geometries that can be straightforwardly decomposed into subarrays and, as a result, the application of such formulation is limited to a small range of arrays. To generalize the formulation, we introduce in this paper a framework that can be applied to arbitrary array geometries, where the beamformer is represented as a sum of Kronecker products of several subfilters. Based on this new framework, an iterative optimization algorithm is<br>derived for designing the subfilters of the minimum variance distortionless response (MVDR) beamformer. Simulation results demonstrate the advantages of the proposed method in different conditions.</p>
+<h1 id=""><a href="#" class="headerlink" title=""></a></h1><h1 id="PDF-download"><a href="#PDF-download" class="headerlink" title="PDF download"></a>PDF download</h1><p><a href="Kronecker_Product_Adaptive_Beamforming_for_Microphone_Arrays.pdf">Kronecker Product Adaptive Beamforming for Microphone Arrays</a></p>
+<h1 id="Presentation-Video"><a href="#Presentation-Video" class="headerlink" title="Presentation Video"></a>Presentation Video</h1><p><video src="video_XWang_APSIPA2021.mp4" position= "relative" width="100%" height="100%" controls="controls" preload="none"><video></p>
 ]]></content>
       <categories>
-        <category>Matlab</category>
+        <category>Publication</category>
       </categories>
       <tags>
-        <tag>Matlab</tag>
+        <tag>Publication</tag>
       </tags>
   </entry>
   <entry>
@@ -30,6 +34,19 @@
       </categories>
       <tags>
         <tag>Publication</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Matlab</title>
+    <url>/2021/02/16/Matlab/</url>
+    <content><![CDATA[<h3 id="Matlab-常用代码"><a href="#Matlab-常用代码" class="headerlink" title="Matlab 常用代码"></a>Matlab 常用代码</h3><p><strong>打印图片</strong></p>
+<figure class="highlight matlab"><table><tr><td class="code"><pre><span class="line">ifsave = <span class="number">1</span>;</span><br><span class="line"><span class="keyword">if</span> ifsave == <span class="number">1</span></span><br><span class="line">    fig_name = [<span class="string">&#x27;figure.eps&#x27;</span>];</span><br><span class="line">    folder_name = [<span class="string">&#x27;results\&#x27;</span>];</span><br><span class="line">    print([folder_name, fig_name], <span class="string">&#x27;-depsc&#x27;</span>, <span class="string">&#x27;-r600&#x27;</span>)</span><br><span class="line"></span><br><span class="line">    fig_name = [<span class="string">&#x27;figure.png&#x27;</span>];</span><br><span class="line">    folder_name = [<span class="string">&#x27;results\&#x27;</span>];</span><br><span class="line">    print([folder_name, fig_name], <span class="string">&#x27;-dpng&#x27;</span>, <span class="string">&#x27;-r600&#x27;</span>)</span><br><span class="line"><span class="keyword">end</span></span><br></pre></td></tr></table></figure>
+]]></content>
+      <categories>
+        <category>Matlab</category>
+      </categories>
+      <tags>
+        <tag>Matlab</tag>
       </tags>
   </entry>
   <entry>
