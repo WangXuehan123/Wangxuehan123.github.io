@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>ICA2019 -- Design of Kronecker Product Beamformers with Cuboid Microphone Arrays</title>
+    <url>/2023/03/16/ICA2019/</url>
+    <content><![CDATA[<h1 id="Author"><a href="#Author" class="headerlink" title="Author"></a>Author</h1><p><strong>Xuehan Wang</strong>,Jacob Benesty, Gongping Huang, Jingdong Chen and Israel Cohen, </p>
+<h1 id="Published-in"><a href="#Published-in" class="headerlink" title="Published in"></a>Published in</h1><p>2019 International Congress on Acoustics (ICA)</p>
+<h1 id="摘要-x2F-Abstract"><a href="#摘要-x2F-Abstract" class="headerlink" title="摘要 &#x2F; Abstract"></a>摘要 &#x2F; Abstract</h1><p>麦克风阵列波束形成技术已广泛应用于各种不同的实际场景中。为了有效地抑制噪声同时高保真地拾取宽带期望语音信号，所设计的波束形成器需要有较高的空间增益，较好的频率一致性以及较强的稳健性。为此，学术界已提出了大量算法，其中，最近提出的基于线性阵列和矩形阵列的克罗内克积波束形成方法展现出了诸多优势。本文将该方法扩展到三维阵列。针对三维立方阵列，本文提出将全局波束形成滤波器分解为两个子滤波器的克罗内克积，并通过独立地设计子滤波器使全局滤波器能获取较高的指向性因子同时能在三维空间中自由导向。</p>
+<p>Microphone array beamforming has been widely used in a wide range of acoustic applications. To make it effective in suppressing noise, yet being able to preserve the fidelity and quality of broadband speech signals of interest, the beamformer needs to be designed with high spatial gain, consistent responses at different frequencies, and high robustness against array imperfections. A great deal of efforts have been devoted in the literature to achieving this goal, among which the Kronecker product beamforming method, developed recently for linear and rectangular microphone arrays, has demonstrated some interesting properties. In this work, we extend this approach to three-dimensional arrays. Focusing on cuboid shape of microphone arrays, we first decompose the global beamforming filter into a Kronecker product of two sub-beamforming filters. Algorithms are then developed to design each sub-beamforming filter so that the global beamformer has a high directivity factor and can be steered flexibly in the three-dimensional space.</p>
+<h1 id="Poster"><a href="#Poster" class="headerlink" title="Poster"></a>Poster</h1><img src="/2023/03/16/ICA2019/ICA_Poster_Wang.PNG" class="" title="[img]">
+
+<h1 id="PDF-download"><a href="#PDF-download" class="headerlink" title="PDF download"></a>PDF download</h1><p><a href="Design_of_Kronecker_Product_Beamformers_with_Cuboid_Microphone_Arrays.pdf">Design of Kronecker Product Beamformers with Cuboid Microphone Arrays</a></p>
+]]></content>
+      <categories>
+        <category>Publication</category>
+      </categories>
+      <tags>
+        <tag>Publication</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>APSIPA2021 -- Kronecker Product Adaptive Beamforming for Microphone Arrays</title>
     <url>/2023/03/17/APSIPA2021/</url>
     <content><![CDATA[<p>Author</p>
@@ -19,28 +37,12 @@
       </tags>
   </entry>
   <entry>
-    <title>ICA2019 -- Design of Kronecker Product Beamformers with Cuboid Microphone Arrays</title>
-    <url>/2023/03/16/ICA2019/</url>
-    <content><![CDATA[<h1 id="Author"><a href="#Author" class="headerlink" title="Author"></a>Author</h1><p><strong>Xuehan Wang</strong>,Jacob Benesty, Gongping Huang, Jingdong Chen and Israel Cohen, </p>
-<h1 id="Published-in"><a href="#Published-in" class="headerlink" title="Published in"></a>Published in</h1><p>2019 International Congress on Acoustics (ICA)</p>
-<h1 id="Abstract"><a href="#Abstract" class="headerlink" title="Abstract"></a>Abstract</h1><p>Microphone array beamforming has been widely used in a wide range of acoustic applications. To make it effective in suppressing noise, yet being able to preserve the fidelity and quality of broadband speech signals of interest, the beamformer needs to be designed with high spatial gain, consistent responses at different frequencies, and high robustness against array imperfections. A great deal of efforts have been devoted in the literature to achieving this goal, among which the Kronecker product beamforming method, developed recently for linear and rectangular microphone arrays, has demonstrated some interesting properties. In this work, we extend this approach to three-dimensional arrays. Focusing on cuboid shape of microphone arrays, we first decompose the global beamforming filter into a Kronecker product of two sub-beamforming filters. Algorithms are then developed to design each sub-beamforming filter so that the global beamformer has a high directivity factor and can be steered flexibly in the three-dimensional space.</p>
-<h1 id="Poster"><a href="#Poster" class="headerlink" title="Poster"></a>Poster</h1><img src="/2023/03/16/ICA2019/ICA_Poster_Wang.PNG" class="" title="[img]">
-
-<h1 id="PDF-download"><a href="#PDF-download" class="headerlink" title="PDF download"></a>PDF download</h1><p><a href="Design_of_Kronecker_Product_Beamformers_with_Cuboid_Microphone_Arrays.pdf">Design of Kronecker Product Beamformers with Cuboid Microphone Arrays</a></p>
-]]></content>
-      <categories>
-        <category>Publication</category>
-      </categories>
-      <tags>
-        <tag>Publication</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>ICASSP2021 -- Robust steerable differential beamformers with null constraints for concentric circular microphone arrays</title>
     <url>/2023/03/18/ICASSP2021/</url>
     <content><![CDATA[<h1 id="Author"><a href="#Author" class="headerlink" title="Author"></a>Author</h1><p><strong>Xuehan Wang</strong>, Gongping Huang, Israel Cohen, Jacob Benesty, and Jingdong Chen</p>
 <h1 id="Published-in"><a href="#Published-in" class="headerlink" title="Published in"></a>Published in</h1><p>2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)</p>
-<h1 id="Abstract"><a href="#Abstract" class="headerlink" title="Abstract"></a>Abstract</h1><p>Differential beamformers with concentric circular microphone arrays (CCMAs) are desirable for use in various applications since they can form frequency-invariant spatial responses, have better beam steering flexibility than linear arrays, and suffer less with beampattern irregularity and white noise amplification than circular microphone arrays (CMAs). The methods developed previously for differential beamforming with CCMAs are based on the series expansion. Such methods need to know the analytic form of the target beampattern, which may not be accessible in practice. Furthermore, expansion error may lead to erroneous solution, which can cause noise amplification instead of reduction. In this paper, we extend our recently developed beamforming method for CMAs to the design of differential beamformers with CCMAs, which takes advantage of the symmetric null constraints from the beampattern. Simulations are performed to justify the properties of the proposed approach.</p>
+<h1 id="摘要-x2F-Abstract"><a href="#摘要-x2F-Abstract" class="headerlink" title="摘要 &#x2F; Abstract"></a>摘要 &#x2F; Abstract</h1><p>同心圆环阵列差分波束形成在许多实际应用中备受青睐。首先，其可以形成频不变的空间响应，其次，与线性阵列相比，其在波束转向上更具有灵活性；与环形阵列相比，其克服了在某些频点上波束图畸变及白噪声增益零陷的缺点。目前，基于同心圆环阵列的差分波束形成方法都是基于级数展开的。此类方法需要先验地获取目标波束图的解析表达式，该表达式在实际运用可能难以获取。其次，级数展开误差可能会导致噪声的放大而非衰减。本文将基于环形阵列的差分波束形成方法扩展到同心圆环阵列，该方法主要利用期望波束图上的对称零点信息来求解波束形成器。大量的仿真结果验证了所提出算的优越性。</p>
+<p>Differential beamformers with concentric circular microphone arrays (CCMAs) are desirable for use in various applications since they can form frequency-invariant spatial responses, have better beam steering flexibility than linear arrays, and suffer less with beampattern irregularity and white noise amplification than circular microphone arrays (CMAs). The methods developed previously for differential beamforming with CCMAs are based on the series expansion. Such methods need to know the analytic form of the target beampattern, which may not be accessible in practice. Furthermore, expansion error may lead to erroneous solution, which can cause noise amplification instead of reduction. In this paper, we extend our recently developed beamforming method for CMAs to the design of differential beamformers with CCMAs, which takes advantage of the symmetric null constraints from the beampattern. Simulations are performed to justify the properties of the proposed approach.</p>
 <h1 id="Poster"><a href="#Poster" class="headerlink" title="Poster"></a>Poster</h1><img src="/2023/03/18/ICASSP2021/poster_XWang_ICASSP2021.PNG" class="" title="[img]">
 
 <h1 id="PDF-download"><a href="#PDF-download" class="headerlink" title="PDF download"></a>PDF download</h1><p><a href="Robust_steerable_differential_beamformers_with_null_constraints_for_concentric_circular_microphone_arrays.pdf">Robust steerable differential beamformers with null constraints for concentric circular microphone arrays</a></p>
@@ -58,7 +60,8 @@
     <url>/2023/03/18/ICASSP2022/</url>
     <content><![CDATA[<h1 id="Author"><a href="#Author" class="headerlink" title="Author"></a>Author</h1><p><strong>Xuehan Wang</strong>, Israel Cohen,  Jacob Benesty, and Jingdong Chen</p>
 <h1 id="Published-in"><a href="#Published-in" class="headerlink" title="Published in"></a>Published in</h1><p>2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)</p>
-<h1 id="Abstract"><a href="#Abstract" class="headerlink" title="Abstract"></a>Abstract</h1><p>  Null directions are important parameters for differential beamformers, which play an important role on the beamforming performance. In this paper, we investigate the performance of differential beamformers as a function of the null directions. We first derive the directivity factor (DF) as an explicit function of null and show that the DF decreases to 0 if any null approaches to the desired look direction. We then validate the theoretical analysis through simulations using the beampattern, DF and signal-to-interference gain as the performance measures. The results show that: 1) the performance of a differential beamformer degrades significantly if there is any null close to the desired look direction; 2) with a fixed null direction, increasing the order of the differential beamformer can help improve performance.</p>
+<h1 id="摘要-x2F-Abstract"><a href="#摘要-x2F-Abstract" class="headerlink" title="摘要 &#x2F; Abstract"></a>摘要 &#x2F; Abstract</h1><p>零点方向是差分波束形成的重要参数，对波束形成的性能表现影响甚大。论文探究了零点方向对差分波束形成的性能影响。首先，论文推导了指向性因子关于零点方向的解析函数，并证明了差分波束形成的任意零点方向接近期望方向会导致指向性因子降为零。随后，在仿真实验中，通过波束图，指向性因子，信干比增益等性能指标探究了零点方向对差分波束形成的性能影响。实验证明差分波束形成的性能会随着零点方向靠近期望方向急剧下降，同时，对于某一零点，增加差分波束形成器的阶数有助于性能提高。</p>
+<p>Null directions are important parameters for differential beamformers, which play an important role on the beamforming performance. In this paper, we investigate the performance of differential beamformers as a function of the null directions. We first derive the directivity factor (DF) as an explicit function of null and show that the DF decreases to 0 if any null approaches to the desired look direction. We then validate the theoretical analysis through simulations using the beampattern, DF and signal-to-interference gain as the performance measures. The results show that: 1) the performance of a differential beamformer degrades significantly if there is any null close to the desired look direction; 2) with a fixed null direction, increasing the order of the differential beamformer can help improve performance.</p>
 <h1 id="Poster"><a href="#Poster" class="headerlink" title="Poster"></a>Poster</h1><img src="/2023/03/18/ICASSP2022/poster_XWang_ICASSP2022.PNG" class="" title="[img]">
 
 <h1 id="PDF-download"><a href="#PDF-download" class="headerlink" title="PDF download"></a>PDF download</h1><p><a href="Study_of_the_null_directions_on_the_performance_of_differential_beamformers.pdf">Study of the null directions on the performance of differential beamformers</a></p>
@@ -85,6 +88,23 @@
       </tags>
   </entry>
   <entry>
+    <title>TASLP2020 -- Steering Study of Linear Differential Microphone Arrays</title>
+    <url>/2023/03/18/TASLP2020/</url>
+    <content><![CDATA[<p>Author</p>
+<p>Jilu Jin, Gongping Huang, <strong>Xuehan Wang</strong>, Jingdong Chen, Jacob Benesty, and Israel Cohen</p>
+<h1 id="Published-in"><a href="#Published-in" class="headerlink" title="Published in"></a>Published in</h1><p>IEEE&#x2F;ACM Transactions on Audio, Speech, and Language Processing, vol. 29, 2020</p>
+<h1 id="摘要-x2F-Abstract"><a href="#摘要-x2F-Abstract" class="headerlink" title="摘要 &#x2F; Abstract"></a>摘要 &#x2F; Abstract</h1><p>差分麦克风阵列具有指向性强、频率一致性好、阵列孔径小等优势，因此，在许多与高保真声信号获取的相关运用中有着极强的潜力。即使已有诸多研究着眼于解决线性麦克风阵列的设计问题，迄今为止的绝大多数工作仅针对期望声源位于端射方向的场景。本文探究了线性差分麦克风阵列的导向问题，针对该问题提出新的视角以及一系列可导向的差分波束形成方法。本文的主要贡献如下：1）定义了一系列的期望函数来描述期望目标波束图；2）证明线性阵列一阶差分波束形成器不可导向，其主瓣方向只能位于期望方向；3）推导了设计线性阵列可导向差分波束形成器的基础条件；4）提出一种基于零点约束的线性阵列可导向差分波束形成方法。大量仿真证明所提出方法的优势。</p>
+<p>Differential microphone arrays (DMAs) can achieve high directivity and frequency-invariant spatial response with small apertures; they also have a great potential to be used in a wide spectrum of applications for high-fidelity sound acquisition. Although many efforts have been made to address the design of linear DMAs (LDMAs), most developed methods so far only work for the situation where the source of interest is incident from the endfire direction. This paper studies the steering problem of differential beamformers with linear microphone arrays. We present new insights into beam steering of LDMAs and propose a series of steerable differential beamformers. The major contributions of this paper are as follows. 1) A series of ideal functions are defined to describe the ideal, target beampatterns of LDMAs. 2) We prove that first-order differential beamformers with linear microphone arrays are not steerable and their mainlobes can only be at the endfire directions. 3) We deduce the fundamental conditions for designing steerable differential beamformers with LDMAs. 4) We develop a method to design steerable beamformers with LDMAs using null constraints. Simulations and experiments validate the properties of the developed method.</p>
+<h1 id="PDF-download"><a href="#PDF-download" class="headerlink" title="PDF download"></a>PDF download</h1><p><a href="Steering_Study_of_Linear_Differential_Microphone_Arrays.pdf">Steering Study of Linear Differential Microphone Arrays</a></p>
+]]></content>
+      <categories>
+        <category>Publication</category>
+      </categories>
+      <tags>
+        <tag>Publication</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Hexo学习笔记</title>
     <url>/2021/02/05/hexo/</url>
     <content><![CDATA[<h3 id="常用代码："><a href="#常用代码：" class="headerlink" title="常用代码："></a>常用代码：</h3><p><strong>常用的 Hexo 命令：</strong></p>
@@ -104,28 +124,13 @@
       </tags>
   </entry>
   <entry>
-    <title>TASLP2020 -- Steering Study of Linear Differential Microphone Arrays</title>
-    <url>/2023/03/18/TASLP2020/</url>
-    <content><![CDATA[<p>Author</p>
-<p>Jilu Jin, Gongping Huang, <strong>Xuehan Wang</strong>, Jingdong Chen, Jacob Benesty, and Israel Cohen</p>
-<h1 id="Published-in"><a href="#Published-in" class="headerlink" title="Published in"></a>Published in</h1><p>IEEE&#x2F;ACM Transactions on Audio, Speech, and Language Processing, vol. 29, 2020</p>
-<h1 id="Abstract"><a href="#Abstract" class="headerlink" title="Abstract"></a>Abstract</h1><p>Differential microphone arrays (DMAs) can achieve high directivity and frequency-invariant spatial response with small apertures; they also have a great potential to be used in a wide spectrum of applications for high-fidelity sound acquisition. Although many efforts have been made to address the design of linear DMAs (LDMAs), most developed methods so far only work for the situation where the source of interest is incident from the endfire direction. This paper studies the steering problem of differential beamformers with linear microphone arrays. We present new insights into beam steering of LDMAs and propose a series of steerable differential beamformers. The major contributions of this paper are as follows. 1) A series of ideal functions are defined to describe the ideal, target beampatterns of LDMAs. 2) We prove that first-order differential beamformers with linear microphone arrays are not steerable and their mainlobes can only be at the endfire directions. 3) We deduce the fundamental conditions for designing steerable differential beamformers with LDMAs. 4) We develop a method to design steerable beamformers with LDMAs using null constraints. Simulations and experiments validate the properties of the developed method.</p>
-<h1 id="PDF-download"><a href="#PDF-download" class="headerlink" title="PDF download"></a>PDF download</h1><p><a href="Steering_Study_of_Linear_Differential_Microphone_Arrays.pdf">Steering Study of Linear Differential Microphone Arrays</a></p>
-]]></content>
-      <categories>
-        <category>Publication</category>
-      </categories>
-      <tags>
-        <tag>Publication</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>TASLP2021 -- Beamforming with Cube Microphone Arrays via Kronecker Product Decompositions</title>
     <url>/2023/03/19/TASLP2021/</url>
     <content><![CDATA[<p>Author</p>
 <p><strong>Xuehan Wang</strong>, Jacob Benesty, Jingdong Chen, Gongping Huang, and Israel Cohen</p>
 <h1 id="Published-in"><a href="#Published-in" class="headerlink" title="Published in"></a>Published in</h1><p>IEEE&#x2F;ACM Transactions on Audio, Speech, and Language Processing, vol. 29, 2021</p>
-<h1 id="Abstract"><a href="#Abstract" class="headerlink" title="Abstract"></a>Abstract</h1><p>Microphone arrays combined with beamforming have been widely used to solve many important acoustic problems in a wide range of applications. Much effort has been devoted in the literature to microphone array beamforming, among which the Kronecker product beamforming method developed recently has demonstrated some interesting properties. Generally, this method decomposes the global beamforming filter into a Kronecker product of a number of sub-beamforming filters, each of which corresponds to a virtual subarray and can be designed individually. This decomposition not only reduces significantly the number of beamforming coefficients, but also can be explored to improve the robustness and flexibility of beamforming. This paper extends Kronecker product beamforming from two-dimensional arrays into three-dimensional cube arrays. We consider two decompositions, i.e., fully and partially separable ones. The former decomposes the entire array into three linear subarrays while the latter decomposes the entire array into a linear subarray and a planar one. Then, for each case, we derive the Kronecker product maximum white noise gain beamformer, the Kronecker product approximate maximum directivity factor (DF) beamformer, the Kronecker product null-steering beamformer, and the Kronecker product iterative maximum DF beamformer. Simulation results demonstrate the properties and advantages of the proposed beamformers.</p>
+<h1 id="摘要-x2F-Abstract"><a href="#摘要-x2F-Abstract" class="headerlink" title="摘要 &#x2F; Abstract"></a>摘要 &#x2F; Abstract</h1><p>麦克风阵列结合适当的波束形成技术被广泛应用于解决不同实际场景中的重要声学问题。近几十年中学者已提出大量波束形成算法，其中，最近提出的克罗内克积波束形成方法展现出诸多优势。通常，该方法将全局波束形成器分解为数个子波束形成器的克罗内克积的形式，每一个子波束形成器都对应于一个虚拟子阵且可以独立设计。这种分解不仅可以显著减少需设计的波束形成器的系数的个数，同时可以增加波束形成器的稳健性和设计灵活性。本文将克罗内克积波束形成方法从二维阵列扩展到三维阵列。文中考虑两种分解方式：完全分解及部分分解。前者将全局阵列分解为三个线性子阵，后者将全局阵列分解为一个线性子阵和一个平面子阵。然后，针对每一种分解方式，文中提出了克罗内克积最大白噪声增益波束形成方法，近似最大指向性因子波束形成方法，零点导向波束形成方法，以及迭代的最大指向性因子波束形成方法。大量的仿真实验反映了所提出的波束形成方法的特点及优点。</p>
+<p>Microphone arrays combined with beamforming have been widely used to solve many important acoustic problems in a wide range of applications. Much effort has been devoted in the literature to microphone array beamforming, among which the Kronecker product beamforming method developed recently has demonstrated some interesting properties. Generally, this method decomposes the global beamforming filter into a Kronecker product of a number of sub-beamforming filters, each of which corresponds to a virtual subarray and can be designed individually. This decomposition not only reduces significantly the number of beamforming coefficients, but also can be explored to improve the robustness and flexibility of beamforming. This paper extends Kronecker product beamforming from two-dimensional arrays into three-dimensional cube arrays. We consider two decompositions, i.e., fully and partially separable ones. The former decomposes the entire array into three linear subarrays while the latter decomposes the entire array into a linear subarray and a planar one. Then, for each case, we derive the Kronecker product maximum white noise gain beamformer, the Kronecker product approximate maximum directivity factor (DF) beamformer, the Kronecker product null-steering beamformer, and the Kronecker product iterative maximum DF beamformer. Simulation results demonstrate the properties and advantages of the proposed beamformers.</p>
 <h1 id="PDF-download"><a href="#PDF-download" class="headerlink" title="PDF download"></a>PDF download</h1><p><a href="Beamforming_with_Cube_Microphone_Arrays_via_Kronecker_Product_Decompositions.pdf">Beamforming with Cube Microphone Arrays via Kronecker Product Decompositions</a></p>
 ]]></content>
       <categories>
